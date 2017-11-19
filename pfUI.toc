@@ -94,3 +94,4 @@ modules\easteregg.lua
 
 # skins
 skins\blizzard\character.lua
+skins\blizzard\options-interface.lua
